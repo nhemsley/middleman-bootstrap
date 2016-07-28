@@ -1,6 +1,6 @@
 ruby "2.3.1"
 
-source :rubygems
+source 'https://rubygems.org'
 
 gem "middleman"
 gem "middleman-livereload", :git => "git://github.com/middleman/middleman-livereload.git"
